@@ -12,3 +12,4 @@ slong = ""
 for i in xrange(128): slong += str(chr(i))
 print isUnique1(slong)
 print isUnique2(slong)
+# this is for testing how to merge
